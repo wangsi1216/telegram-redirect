@@ -81,17 +81,17 @@
 </head>
 <body>
     <div id="fallback" style="display: none;">
-        <h1>正在跳转到Telegram...</h1>
+        <h1>إعادة التوجيه إلىTelegram...</h1>
         <div class="spinner"></div>
-        <p>如果长时间没有跳转，请点击下方按钮：</p>
-        <a href="#" id="manualRedirect" class="manual-link">手动跳转</a>
+        <p>إذا لم تتم إعادة توجيه الصفحة بعد فترة طويلة، يرجى النقر على الزر أدناه:</p>
+        <a href="#" id="manualRedirect" class="manual-link">القفز اليدوي</a>
         <p style="margin-top: 30px; font-size: 14px; opacity: 0.8;">
-            本链接每次点击会随机跳转到不同的Telegram频道
+            كل نقرة على هذا الرابط ستعيد توجيهك عشوائياً إلى قناة Telegram مختلفة.
         </p>
     </div>
     
     <script>
-        // 3秒后如果还没跳转成功，显示备用界面
+        // إذا فشل تحميل الصفحة في غضون 3 ثوانٍ، فاعرض واجهة بديلة.
         setTimeout(() => {
             if (!window.location.href.includes('t.me')) {
                 document.getElementById('fallback').style.display = 'block';
