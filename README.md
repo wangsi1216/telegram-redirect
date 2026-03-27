@@ -10,7 +10,7 @@
             "https://t.me/laiya8811",
             "https://t.me/laiya8802",
             "https://t.me/laiya8806",
-            "https://t.me/laiya88002",
+            "https://t.me/laiya8802",
             "https://t.me/laiya8811",
             "https://t.me/laiya8803",
             "https://t.me/laiya88004",
