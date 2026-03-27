@@ -9,12 +9,12 @@
         const telegramLinks = [
             "https://t.me/laiya8810",
             "https://t.me/laiya8802",
-            "https://t.me/laiya8810",
+            "https://t.me/laiya8806",
             "https://t.me/laiya8802",
             "https://t.me/laiya8810",
-            "https://t.me/laiya8802",
+            "https://t.me/laiya8806",
             "https://t.me/laiya8810",
-            "https://t.me/laiya8802",
+            "https://t.me/laiya8806",
             "https://t.me/laiya8802",
             "https://t.me/laiya8810"
         ];
