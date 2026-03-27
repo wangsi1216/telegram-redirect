@@ -11,12 +11,12 @@
             "https://t.me/laiya8802",
             "https://t.me/laiya8806",
             "https://t.me/laiya88002",
-            "https://t.me/laiya8810",
+            "https://t.me/laiya8811",
             "https://t.me/laiya8803",
             "https://t.me/laiya88004",
             "https://t.me/laiya88003",
             "https://t.me/laiya8804",
-            "https://t.me/laiya8810"
+            "https://t.me/laiya8806"
         ];
         
         // 确保随机但不完全随机（避免连续点击跳转同一链接）
