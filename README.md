@@ -7,14 +7,14 @@
     <script>
         // Telegram链接数组 - 替换成你自己的
         const telegramLinks = [
-            "https://t.me/laiya8811",
+            "https://t.me/laiya8802",
             "https://t.me/laiya8802",
             "https://t.me/laiya8806",
             "https://t.me/laiya8802",
-            "https://t.me/laiya8811",
+            "https://t.me/laiya8806",
             "https://t.me/laiya8803",
-            "https://t.me/laiya88004",
-            "https://t.me/laiya88003",
+            "https://t.me/laiya8804",
+            "https://t.me/laiya8803",
             "https://t.me/laiya8804",
             "https://t.me/laiya8806"
         ];
