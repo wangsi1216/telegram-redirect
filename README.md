@@ -7,16 +7,16 @@
     <script>
         // Telegram链接数组 - 替换成你自己的
         const telegramLinks = [
-            "https://t.me/laiya8802",
-            "https://t.me/laiya88002",
-            "https://t.me/laiya8803",
-            "https://t.me/laiya8804",
-            "https://t.me/laiya8806",
-            "https://t.me/laiya8811",
-            "https://t.me/laiya8804",
-            "https://t.me/laiya8803",
-            "https://t.me/laiya8811",
-            "https://t.me/laiya8806"
+            "https://t.me/laiya888888",
+            "https://t.me/laiya880888",
+            "https://t.me/laiya880888",
+            "https://t.me/laiya886666",
+            "https://t.me/laiya886666",
+            "https://t.me/laiya886666",
+            "https://t.me/laiya886666",
+            "https://t.me/laiya886666",
+            "https://t.me/laiya88666",
+            "https://t.me/laiya8806666"
         ];
         
         // 确保随机但不完全随机（避免连续点击跳转同一链接）
