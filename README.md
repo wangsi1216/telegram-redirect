@@ -8,7 +8,7 @@
         // Telegram链接数组 - 替换成你自己的
         const telegramLinks = [
             "https://t.me/shein88804",
-            "https://t.me/shein88809",
+            "https://t.me/shein8802",
             "https://t.me/shein8805",
             "https://t.me/shein8801",
             "https://t.me/shein88004"
